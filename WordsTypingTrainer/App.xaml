@@ -1,0 +1,9 @@
+﻿<Application x:Class="WordsTypingTrainer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WordsTypingTrainer"
+             StartupUri="Menu.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
